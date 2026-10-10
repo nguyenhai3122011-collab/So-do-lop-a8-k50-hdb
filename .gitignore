@@ -1,0 +1,13 @@
+# Hệ điều hành / trình soạn thảo
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Nhật ký và thư mục tạm
+*.log
+.cache/
+
+# Nếu sau này dùng Node
+node_modules/
+dist/
